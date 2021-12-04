@@ -3,7 +3,7 @@ This repository stores assignments from a secure coding course for my undergradu
 </br>
 </br>
 <ul>
-  <lh>Assignments</lh>
+  <h1>Assignments</h1>
   <li>Encryption assignment using XOR encryption</li>
   <li>Unit testing for secure coding</li>
   <li>Excpetions in C++</li>
