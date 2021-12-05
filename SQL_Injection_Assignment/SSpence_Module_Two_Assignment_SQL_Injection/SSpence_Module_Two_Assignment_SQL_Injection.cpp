@@ -95,7 +95,6 @@ bool run_query(sqlite3* db, const std::string& sql, std::vector< user_record >& 
             if (sql[previous_index] == sql[next_index]) {
                 std::cout << "Possible SQL injection attempt. Exiting..." << std::endl;
                 return false;
-                break;
             }
         }
 
