@@ -6,9 +6,9 @@ This repository stores assignments from a secure coding course for my undergradu
   <h2>Assignments</h2>
   <li>Encryption assignment using XOR encryption</li>
   <li>Unit testing for secure coding</li>
-  <li>Excpetions in C++</li>
-  <li>Static code analysis of buggy code using CPPCheck. The XML file and corresponding analysis are in a zip folder. </li>
-  <li>SQL injection assignment to prevent an sql injection using an SQLite DB.</li>
+  <li>Exceptions in C++</li>
+  <li>Static code analysis of buggy code using CPPCheck (The XML file and corresponding analysis are in a zip folder) </li>
+  <li>SQL injection assignment to prevent sql injection attacks on an SQLite DB </li>
 </ul>
 </br>
 </br>
